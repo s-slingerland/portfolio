@@ -1,8 +1,6 @@
 .img {
-  border: 2px solid black;
   margin: 10px;
-  float: right;
-  padding: 5px
+  padding: 5px;
   }
 
 body {
@@ -26,4 +24,10 @@ h1 {
 
 .bullet {
   list-style-type: circle;
+}
+
+.sidebar {
+  width: 25%;
+  float: right;
+  background color: #f2d0ff;
 }
