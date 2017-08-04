@@ -29,5 +29,10 @@ h1 {
 .sidebar {
   width: 25%;
   float: right;
-  background color: #f2d0ff;
+  background-color: #f2d0ff;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
