@@ -11,6 +11,7 @@ _At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praes
 ## Setup
 
 _1. Clone this repository_
+
 _2. Open in web browser_
 
 ## Technologies Used
@@ -25,4 +26,5 @@ _At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praes
 
 ### License
 
-# Copyright 2017 Sean Slingerland
+*Copyright 2017 Sean Slingerland*
+*This is licensed under the MIT license*
